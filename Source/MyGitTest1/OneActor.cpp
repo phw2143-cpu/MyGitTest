@@ -15,7 +15,7 @@ AOneActor::AOneActor()
 void AOneActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	// Å×½ºÆ®123
 }
 
 // Called every frame
