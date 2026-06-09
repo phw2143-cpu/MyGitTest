@@ -15,7 +15,7 @@ AOneActor::AOneActor()
 void AOneActor::BeginPlay()
 {
 	Super::BeginPlay();
-	// �׽�Ʈ123
+	// 작업자456
 }
 
 // Called every frame
