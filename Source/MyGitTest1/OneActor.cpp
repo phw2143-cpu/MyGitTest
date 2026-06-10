@@ -16,6 +16,8 @@ void AOneActor::BeginPlay()
 {
 	Super::BeginPlay();
 	// 작업자456123
+	// 작업자456789
+	// Develop 작업
 }
 
 // Called every frame
